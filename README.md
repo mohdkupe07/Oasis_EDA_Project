@@ -67,6 +67,6 @@ To perform real-world data analysis and gain practical experience in handling da
 
 ✔ All tasks completed successfully  
 
-# This project was completed as part of my data analytics learning journey using Python!!!
+# I worked on this project while learning data analytics using Python.
 
 # Thank You
